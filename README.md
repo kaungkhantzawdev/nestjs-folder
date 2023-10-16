@@ -12,7 +12,7 @@ nestjs best folder structure for me
 
 ## Folder structure
 
-Clone the project
+Project
 
 ```bash
   src/
